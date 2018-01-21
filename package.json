@@ -1,0 +1,14 @@
+{
+  "name": "spider_bot",
+  "version": "1.0.0",
+  "description": "spooky",
+  "main": "bot",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ItsAnOmen2",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
